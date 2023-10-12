@@ -170,3 +170,4 @@ Anda dapat mencari gambar di internet yang ingin ditampilkan. Buatlah folder ima
 # Langkah 3: Terakhir, ubah menjadi ListView
 Pada langkah terakhir ini, atur semua elemen dalam ListView, bukan Column, karena ListView mendukung scroll yang dinamis saat aplikasi dijalankan pada perangkat yang resolusinya lebih kecil.
 ![Screenshot layout_flutter](../layout_flutter/images_week_7/p_4.png)
+![Screenshot layout_flutter](../layout_flutter/images_week_7/p_4.gif)
