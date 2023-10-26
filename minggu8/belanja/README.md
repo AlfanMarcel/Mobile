@@ -39,3 +39,6 @@ Untuk menambahkan sentuhan, letakkan cursor pada widget pembuka Card. Kemudian g
 
 Hasil :<br> 
 <img src ="images_week8/p_5.1.gif" width="200px">
+
+Hasil tugas praktikum:<br>
+<img src ="images_week8/p_5.2.gif" width="200px">
